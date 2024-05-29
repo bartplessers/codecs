@@ -1,0 +1,89 @@
+General
+ID                                       : 0 (0x0)
+Complete name                            : C:\workdir\myApps\TOOLS\BIN\ffmpeg\Dolby Amaze.ATMOS.m2ts
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+File size                                : 219 MiB
+Duration                                 : 1 min 4 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 28.6 Mb/s
+Maximum Overall bit rate                 : 48.0 Mb/s
+Frame rate                               : 24.000 FPS
+
+Video
+ID                                       : 4113 (0x1011)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : 27
+Duration                                 : 1 min 3 s
+Bit rate mode                            : Variable
+Bit rate                                 : 25.2 Mb/s
+Maximum bit rate                         : 24.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 24.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.506
+Stream size                              : 191 MiB (87%)
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 4352 (0x1100)
+Menu ID                                  : 1 (0x1)
+Format                                   : MLP FBA AC-3 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Muxing mode                              : Stream extension
+Codec ID                                 : 131
+Duration                                 : 1 min 3 s
+Bit rate mode                            : Variable
+Bit rate                                 : 640 kb/s
+Maximum bit rate                         : 9 096 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossless
+Stream size                              : 4.84 MiB (2%)
+Service kind                             : Complete Main
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Audio #2
+ID                                       : 4353 (0x1101)
+Menu ID                                  : 1 (0x1)
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Format profile                           : Blu-ray Disc
+Muxing mode                              : Stream extension
+Codec ID                                 : 132
+Duration                                 : 1 min 3 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 664 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 12.6 MiB (6%)
+Service kind                             : Complete Main
+Complexity index                         : 16
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+

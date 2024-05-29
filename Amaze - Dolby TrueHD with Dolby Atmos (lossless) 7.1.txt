@@ -1,0 +1,67 @@
+General
+ID                                       : 1 (0x1)
+Complete name                            : C:\workdir\myApps\TOOLS\BIN\ffmpeg\Amaze - Dolby TrueHD with Dolby Atmos (lossless) 7.1.m2ts
+Format                                   : BDAV
+Format/Info                              : Blu-ray Video
+File size                                : 194 MiB
+Duration                                 : 1 min 3 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 25.6 Mb/s
+Frame rate                               : 24.000 FPS
+
+Video
+ID                                       : 4113 (0x1011)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : 27
+Duration                                 : 1 min 3 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 24.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate                               : 24.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 4352 (0x1100)
+Menu ID                                  : 1 (0x1)
+Format                                   : MLP FBA 16-ch
+Format/Info                              : Meridian Lossless Packing FBA with 16-channel presentation
+Commercial name                          : Dolby TrueHD with Dolby Atmos
+Codec ID                                 : 131
+Duration                                 : 1 min 3 s
+Bit rate mode                            : Variable
+Maximum bit rate                         : 9 096 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 1 200.000 FPS (40 SPF)
+Compression mode                         : Lossless
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+
+Menu
+ID                                       : 256 (0x100)
+Menu ID                                  : 1 (0x1)
+Format                                   : AVC / MLP FBA
+Duration                                 : 1 min 3 s
+List                                     : 4113 (0x1011) (AVC) / 4352 (0x1100) (MLP FBA)
+Service name                             : Service01
+Service provider                         : FFmpeg
+Service type                             : digital television
+
